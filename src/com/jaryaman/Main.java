@@ -5,23 +5,12 @@ public class Main {
 
     public static void main(String[] args){
 
-        // InterfaceExample.main();
-
-        // EncapsulationExample.main();
-
-        /*
-        * // abstraction example
-        * var mail = new MailService();
-        * mail.sendEmail(); // the only available method -- this is the point for abstraction
-        */
-
-        /*
-        * // interitance example
-        * var textBox = new TextBox();
-        * textBox.enable();
-        * */
-
-        // PolymorphismExample.main();
+        /*First we cover 4 key OO principles: abstraction, inheritance, encapsulation, and polymorphism*/
+        AbstractionExample.main();
+        InterfaceExample.main();  // related to abstraction
+        InheritanceExample.main();
+        EncapsulationExample.main();
+        PolymorphismExample.main();
 
     }
 
