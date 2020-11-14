@@ -1,7 +1,7 @@
 package com.jaryaman;
 
 public class EncapsulationExample {
-    public void main() {
+    public static void main() {
         var account = new Account();
         account.deposit(10);
         account.withdraw(5);
