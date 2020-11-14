@@ -1,11 +1,16 @@
-package com.jaryaman; // a namespace
+package com.jaryaman;
 
 public class Main {
 
-    // static = method can be called directly in main without making an instance of the class
-    public static void main(String[] args) {
+    public static void main(String[] args){
+        var interfaceExample = new InterfaceExample();
+        interfaceExample.main();
 
+
+        var encapsulation = new EncapsulationExample();
+        encapsulation.main();
     }
+
 
 
 }
