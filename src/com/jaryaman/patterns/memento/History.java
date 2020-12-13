@@ -1,4 +1,4 @@
-package com.jaryaman.memento;
+package com.jaryaman.patterns.memento;
 
 import java.util.ArrayList;
 import java.util.List;

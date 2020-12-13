@@ -1,4 +1,4 @@
-package com.jaryaman;
+package com.jaryaman.fundamentals.abstraction;
 
 public class AbstractionExample {
     public static void main(){

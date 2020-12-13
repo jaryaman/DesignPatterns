@@ -1,4 +1,6 @@
-package com.jaryaman;
+package com.jaryaman.fundamentals.polymorphism;
+
+import com.jaryaman.fundamentals.inheritance.TextBox;
 
 public class PolymorphismExample {
     public static void main(){

@@ -1,4 +1,4 @@
-package com.jaryaman; // a namespace
+package com.jaryaman.fundamentals.interfaces; // a namespace
 
 public class InterfaceExample {
     /*

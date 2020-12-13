@@ -1,4 +1,4 @@
-package com.jaryaman;
+package com.jaryaman.fundamentals.interfaces;
 
 public class TaxCalculator2020 implements TaxCalculator {
     @Override

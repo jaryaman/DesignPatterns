@@ -1,4 +1,4 @@
-package com.jaryaman;
+package com.jaryaman.fundamentals.abstraction;
 
 /*
 * The idea in abstraction is to hide away complicated implementation details from users

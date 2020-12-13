@@ -1,4 +1,4 @@
-package com.jaryaman.memento;
+package com.jaryaman.patterns.memento;
 // Implementing undo on an editor, which contains a string as its state
 
 public class MementoExample {

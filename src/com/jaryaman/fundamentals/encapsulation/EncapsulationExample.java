@@ -1,4 +1,4 @@
-package com.jaryaman;
+package com.jaryaman.fundamentals.encapsulation;
 
 public class EncapsulationExample {
     public static void main() {

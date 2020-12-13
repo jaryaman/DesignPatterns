@@ -1,4 +1,4 @@
-package com.jaryaman.memento;
+package com.jaryaman.patterns.memento;
 
 import org.jetbrains.annotations.NotNull;
 

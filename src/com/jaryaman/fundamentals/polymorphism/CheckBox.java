@@ -1,4 +1,4 @@
-package com.jaryaman;
+package com.jaryaman.fundamentals.polymorphism;
 
 public class CheckBox extends UIControl {
     @Override

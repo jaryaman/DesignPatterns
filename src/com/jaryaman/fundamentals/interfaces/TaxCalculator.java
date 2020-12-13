@@ -1,4 +1,4 @@
-package com.jaryaman;
+package com.jaryaman.fundamentals.interfaces;
 
 public interface TaxCalculator {
     // This is the point. We just specify the methods, fields, and properties here

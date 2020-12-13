@@ -1,4 +1,4 @@
-package com.jaryaman;
+package com.jaryaman.fundamentals.encapsulation;
 
 public class Account {
     private float balance;

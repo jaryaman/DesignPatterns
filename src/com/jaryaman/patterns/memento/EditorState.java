@@ -1,4 +1,4 @@
-package com.jaryaman.memento;
+package com.jaryaman.patterns.memento;
 // The Memento
 public class EditorState {
     // final means, once initialised, it cannot be changed again. It is permanent.

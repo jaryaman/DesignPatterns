@@ -1,4 +1,4 @@
-package com.jaryaman;
+package com.jaryaman.fundamentals.polymorphism;
 
 public abstract class UIControl {
     public void enable() {

@@ -1,4 +1,4 @@
-package com.jaryaman;
+package com.jaryaman.fundamentals.inheritance;
 
 public class InheritanceExample {
     public static void main() {
